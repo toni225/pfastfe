@@ -13,7 +13,7 @@ const SignUp = () => {
         setEmail(data.email)
         setPassword(data.password)
     }
-
+//helo
     const submitForm = async (e) => {
         e.preventDefault()
 
